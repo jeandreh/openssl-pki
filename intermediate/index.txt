@@ -1,2 +1,0 @@
-V	190628095217Z		1000	unknown	/C=AU/ST=NSW/O=Test/CN=localhost
-V	190628095247Z		1001	unknown	/C=AU/ST=NSW/O=Test/CN=user
